@@ -1,1 +1,1 @@
-Sample project using XIB.
+Sample projects using XIB.
